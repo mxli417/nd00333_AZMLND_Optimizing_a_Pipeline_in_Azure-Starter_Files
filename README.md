@@ -62,11 +62,11 @@ The AutoML-approach aims towards automating the complete hand-crafted and thus b
 
 - Here is an overview over the models tried during the AutoML-experiment:
 
-![AutoML models](assets\best_models.png)
+![AutoML models](/assets/best_models.png)
 
 - Here is an overview over the most important features for the Voting Ensemble model tried during the AutoML-experiment:
 
-![Feature importance for best model](assets\feature_importance.png)
+![Feature importance for best model](/assets/feature_importance.png)
 
 ## Pipeline comparison
 
@@ -79,7 +79,7 @@ The AutoML-approach aims towards automating the complete hand-crafted and thus b
 - during the manual data preparation, now data normalization or scaling was done - this might an interesting approach for the manual data science work
 
 - custom dataset balancing capabilities might be interesting, especially in the area of unbalanced datasets, as the dataset appears to be imbalanced:
-![imbalanced dataset](assets\imbalance.png)
+![imbalanced dataset](/assets/imbalance.png)
 
 - custom [cost-sensitive learning approaches](https://mlr.mlr-org.com/articles/tutorial/cost_sensitive_classif.html) might also be interesting for the problem, helping the model to adapt to avoid costly misclassifications
 
